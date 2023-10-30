@@ -1,5 +1,16 @@
-# Hi there, I am Habib Sultani 👋
-#### front-end web developer.
+<h1>
+  Hi there, I am Habib Sultani
+</h1>
+
+<p background-color="red"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/Habibsultani/count.svg" />
+</p>
+
+
+
+<h4>Front-end web developer</h4>
+ 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Habibsultani&layout=compact)
 
