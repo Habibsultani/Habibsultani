@@ -1,5 +1,5 @@
 <h1>
-  Hi there, I am Habib Sultani
+  Hi, I am Habib Sultani
 </h1>
 
 <p background-color="red"> 
