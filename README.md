@@ -4,7 +4,7 @@
 
 ### languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,php,vue,vite,react,bootstrap,tailwind,mysql,firebase,git,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ruby,php,laravel,vue,vite,react,bootstrap,tailwind,mysql,firebase,git,vscode&perline=8)](https://skillicons.dev)
 
 
 
