@@ -1,5 +1,5 @@
 # Hi, I'm Habib Sultani 👋
 
-🌱 Learning software development and AI.
+🌱 Learning Software Engineering and AI.
 
-💻 Building with Laravel, Vue, Tailwind & Flutter.  
+💻 Building with Laravel, Nuxt, Tailwind & Flutter.  
